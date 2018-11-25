@@ -9,7 +9,7 @@ A few notable features:
 - Player ship can be controlled vertically
 - Random spawning of enemies
 - Semi random movement of enemies
-- The game advances based on the players kill count
+- The game difficulty advances based on the players kill count
 	- There are 4 different "levels" and upon reaching a new one, a new enemy ship will unlock and start spawning
 	- Each enemy is more difficult than the last
 - Asteroids
